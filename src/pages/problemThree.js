@@ -115,6 +115,17 @@ function ProblemThree (){
 
     return (
         <>  
+            <div style={{width:'80%', margin:'3% 10%'}}>
+                <u><i><h1>Task 3</h1></i></u>                
+                <ol>
+                    <li>
+                        To search in a column, hover of column header & click on hamburger menu.
+                    </li>
+                    <li>
+                        Click on the columns headers for sorting columns.
+                    </li>
+                </ol>
+            </div>
         {/* poi */}
             <div>
                 <Heading text="POI" />
